@@ -15,4 +15,4 @@ All datasets used in this study are publicly available and were curated from tru
 ## Reproduction
 ```bash
 pip install -r requirements.txt
-python mlallergen_model.py
+python allergen_prediction_pipeline.py
